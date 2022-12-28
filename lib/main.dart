@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         indicatorColor: Colors.blueGrey,
       ),
       themeMode: ThemeMode.dark,
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      // home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }
