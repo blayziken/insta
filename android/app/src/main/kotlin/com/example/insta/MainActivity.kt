@@ -1,4 +1,4 @@
-package com.example.insta
+package com.blayziken.insta
 
 import io.flutter.embedding.android.FlutterActivity
 
